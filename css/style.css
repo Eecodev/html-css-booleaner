@@ -29,3 +29,17 @@ header{
 .yellow-mark{
     background-color: yellow;
 }
+
+th{
+    background-color: blue;
+    color: white;
+}
+
+.light-blue{
+    background-color: lightblue;
+}
+
+.white{
+    background-color: white;
+}
+
