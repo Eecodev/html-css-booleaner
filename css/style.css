@@ -17,3 +17,11 @@ header{
 .container{
     padding: 10px;
 }
+
+.grey {
+    color: grey;
+}
+
+.author {
+    color: blue;
+}
